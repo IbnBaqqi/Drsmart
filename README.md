@@ -5,6 +5,7 @@ Computer Science BSc
 
 ### Work Experience
 Backend Software Intern @ Nokia
+C++ Embedded Engineer Intern @ Nokia
 
 ### Projects
-Andriod development & Machine learning
+FPS Game with C++
